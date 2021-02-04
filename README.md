@@ -1,1 +1,3 @@
 # test-rename
+
+Testing renaming
